@@ -1,2 +1,3 @@
 # 100-days-of-code-python
 I will share my progress in python by the projects I am doing during the bootcamp I am taking....
+<img width="326" height="242" alt="Screenshot 2026-01-06 at 20 40 53" src="https://github.com/user-attachments/assets/1660003b-af20-4004-b84b-e0abd2a61a5e" />
